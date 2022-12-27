@@ -1,13 +1,12 @@
 # FPS-Controller
-This is a simple first person controller in Unity with the following features;
-* Walk
-* Sprint
+This is a first person controller in Unity. It has the following features;
+* Basic movement 
 * Jump
 * Crouch
+* Ladder action
+* Headbob
 * Gravity 
 * Ground check 
 * Mouse look
-The code has been separated into three scripts. Each handles a specific attribute of the player;
-* Mouse look- For the mouse movement.
-* Player input- This handles all the input from the keyboard and mouse 
-* Player movement- This handles all the player's abilities. Each of them has been separated into different methods which makes it easier to understand and modify the code.
+
+The code has been seperated into different scripts. Each handles a specific attribute of the player.
