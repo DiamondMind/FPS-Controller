@@ -1,0 +1,35 @@
+
+---------- CHANGELOG FOR AI MOVEMENT PROJECT ----------
+
+Project startdate --- Jan 1st 2022
+
+January 1st 2022
+* FPSMovement 
+* FPS Look
+
+December 9th 2022 to December 10th 2022
+*HeadBob 
+
+December 10th 2022
+* Updated crouch
+
+December 11th 2022 to December 23rd 2022
+* Ladder action
+
+December 22nd 2022 to December 28th 2022
+* Redefined specific input variables to become changable in the inspector
+* Footsteps, jump, land sfx
+* Stamina system
+
+November 3rd 2023 November 8th 2023
+* REFACTOR ENTIRE SYSTEM
+
+November 9th 2023 to November 11th 2023
+* Parkour Action
+
+---------- Feature List ----------
+
+NOTE
+* The groundcheck position should be slightly below the player capsule. The distance should be thesame or higher than stepoffset
+	Thsi is to avoid the player grounded being false while climbing stairs or slopes
+

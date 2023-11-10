@@ -1,3 +1,2 @@
-The ladder action requires the following tags to work
-* Ladder
-*LadderEndPoint
+DUE TO LEGA RESTRICTIONS WITH AUDIOCLIPS USED IN THE DEVELOPMENT OF THIS PROJECT, YOU WILL HAVE TO USE YOUR OWN AUDIOCLIPS
+Just drag and drop them in the inspector

@@ -5,6 +5,14 @@ TagManager:
   serializedVersion: 2
   tags:
   - Default
+  - Ladder
+  - LadderEndPoint
+  - GFX
+  - Footsteps/Grass
+  - Footsteps/Metal
+  - Footsteps/Wood
+  - Footsteps/Water
+  - ClimbObject
   layers:
   - Default
   - TransparentFX
@@ -12,7 +20,7 @@ TagManager:
   - Player
   - Water
   - UI
-  - 
+  - GFX
   - 
   - 
   - 
