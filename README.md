@@ -13,6 +13,8 @@ Welcome to this FPS Controller project for Unity, a comprehensive first-person c
 - **Ladder Interaction**: Seamlessly climb up and down ladders within the game world.
 - **Vault/Climb Over Objects**: Overcome obstacles with the vaulting/climbing feature.
 
+For a gameplay demonstration, check out our [Gameplay Video](https://drive.google.com/file/d/1_gs3kI6Yr2nTsh0wDNgrRhXITL6r51si/view?usp=drive_link).
+
 ## Dependencies
 
 This project is built using Unity and C#. Make sure you have the appropriate versions installed.
@@ -23,9 +25,7 @@ Feel free to contribute by submitting bug reports, feature requests, or pull req
 
 ## License
 
-## License
-
-This project is licensed under the [MIT License(https://drive.google.com/file/d/1_gs3kI6Yr2nTsh0wDNgrRhXITL6r51si/view?usp=drive_link)].
+This project is licensed under the [MIT License](https://drive.google.com/file/d/1_gs3kI6Yr2nTsh0wDNgrRhXITL6r51si/view?usp=drive_link)].
 
 ## Contact
 
