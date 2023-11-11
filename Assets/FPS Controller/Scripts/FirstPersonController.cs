@@ -113,7 +113,7 @@ namespace DiamondMind.Prototypes.Characters.FPS
 
         private void HandleFootSteps()
         {
-            if (!playerMovement.isGrounded || !playerMovement.isInMotion || !playerMovement.isEnabled)
+            if (!playerMovement.isGrounded || !playerMovement.isInMotion || !playerMovement.isEnabled || playerMovement.customAction)
                 return;
 
             timer -= Time.deltaTime;
