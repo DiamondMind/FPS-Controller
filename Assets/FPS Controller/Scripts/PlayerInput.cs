@@ -40,6 +40,7 @@ namespace DiamondMind.Prototypes.Characters.FPS
             controller = GetComponent<CharacterController>();
             playerMovement = GetComponent<FirstPersonMovement>();
             headBobController = GetComponent<HeadBobController>();
+            playerController = GetComponent<FirstPersonController>();
             playerLook = FindObjectOfType<PlayerLook>();
         }
 

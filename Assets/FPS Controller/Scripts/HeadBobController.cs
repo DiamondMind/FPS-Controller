@@ -29,6 +29,8 @@ namespace DiamondMind.Prototypes.Characters.FPS
         private void Start()
         {
             playerInput = GetComponent<PlayerInput>();
+            playerMovement = playerInput.playerMovement;
+
             camHolder = playerInput.playerMovement.camTransform;
             startEnabled = isEnabled;
             startYPos = camHolder.localPosition.y;
